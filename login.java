@@ -1,4 +1,4 @@
-line 2 entried
+line 1 line 2 entried
 This is the jenkins code for the deployment <<<<<<< HEAD <<<<<<< HEAD hi how are you?
 hi bhargav
 =======
