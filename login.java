@@ -1,4 +1,5 @@
- <<<<<<< HEAD <<<<<<< HEAD hi how are you?
+
+This is the jenkins code for the deployment <<<<<<< HEAD <<<<<<< HEAD hi how are you?
 hi bhargav
 =======
 bhargav is doing good 
